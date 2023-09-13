@@ -23,7 +23,6 @@ Este código HTML permite adicionar e gerenciar pordutos. A página possui um ca
 - HTML: para estruturar e organizar os elementos da página;
 - CSS: para estilizar a página;
 - JavaScript: para adicionar interatividade e controlar a lógica da aplicação através do arquivo "controller.js";
-- Script: para linkar com o arquivo JavaScript "controller.js".
 
 ## Autores
 
