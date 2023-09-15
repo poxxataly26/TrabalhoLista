@@ -20,8 +20,8 @@ Este código HTML permite adicionar e gerenciar pordutos. A página possui um ca
 
 ### Tecnologias utilizadas
 
-- HTML: para estruturar e organizar os elementos da página;
-- CSS: para estilizar a página;
+- HTML5: para estruturar e organizar os elementos da página;
+- CSS3: para estilizar a página;
 - JavaScript: para adicionar interatividade e controlar a lógica da aplicação através do arquivo "controller.js";
 
 ## Autores
